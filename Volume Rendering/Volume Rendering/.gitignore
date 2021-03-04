@@ -1,0 +1,6 @@
+build/
+*.jar
+*.class
+/VolVis/dist/
+*.properties
+/VolVis/nbproject/private/
